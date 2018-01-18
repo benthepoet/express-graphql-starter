@@ -1,0 +1,12 @@
+module.exports = `
+    type Mutation {
+    }
+
+    type Query {
+    }
+
+    schema {
+        query: Query
+        mutation: Mutation
+    }
+`;
