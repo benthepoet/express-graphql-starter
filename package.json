@@ -1,0 +1,22 @@
+{
+  "name": "express-graphql-starter",
+  "version": "1.0.0",
+  "description": "An Express-based GraphQL API with JWT authentication.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benthepoet/express-graphql-starter.git"
+  },
+  "author": "Ben Hanna <benpaulhanna@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benthepoet/express-graphql-starter/issues"
+  },
+  "homepage": "https://github.com/benthepoet/express-graphql-starter#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
