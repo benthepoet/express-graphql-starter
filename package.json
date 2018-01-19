@@ -23,6 +23,7 @@
     "graphql": "^0.12.3",
     "graphql-tools": "^2.18.0",
     "jsonwebtoken": "^8.1.0",
-    "level": "^2.1.1"
+    "level": "^2.1.1",
+    "rand-token": "^0.4.0"
   }
 }
